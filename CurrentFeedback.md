@@ -1,3 +1,3 @@
-## HW9; Score: 16/20
+## HW10; Score: 20/20
 
-DeVaughn and Jane, I think the project that you have proposed looks very cool. I'm excited to see the model(s) that you will be working with and I'm hoping there's some details in the work that you turn in for Monday. I do wish there were a more detailed timeline and how the work will be distributed between the two of you, so I'll be looking into the reflection questions that you answer over the course of the project for this.
+DeVaughn and Jane, I am really seeing how this coming together and what you plan to do. You have a detailed plan and it looks very good. It's a bit ambitious, but I think you two can handle it. I think you have distributed the workload to speak to your strengths. I'm glad to see that you are starting to write you code. I'm hoping that you comment on it inline, so I can review it in more detail. Great job this week!

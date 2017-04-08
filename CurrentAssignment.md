@@ -1,7 +1,19 @@
-## Paired Project Problem
+## HW-12 Project Problem - Draft figures and captions
 
-1. Read the feedback that you received on your figure/models and think about how you and your partner are going to work through these details.
-2. Project work - Provide some sample calculations and figures produced by your code. This can be a notebook (Jupyter), but the work needs to be explained inline (i.e., what are you doing and why?). This is the work that is the meat of your original contribution. It need not be complete yet.
-3. Self-reflection - Think about how the project is going and how you are both contributing. Write out a document for the last couple of weeks worth of work inclduing this one that describes: Who did what? Hoes does it feel like the contributions for the members of your pair are equal? Regarding the project specifically, what questions do you need to answer to continue to move forward and what help do you need from me or others?
+
+Make sure to read the feedback that you received on your figure/models and think about how you and your partner are going to work through these details.
+
+At this point, you should produce draft figures for poster with captions. You should have pressed onward with your calculations and produced appropriate figures for your poster with captions. The "graphic" and caption should be turned in. These need not be complete in the sense that you should continue working on your calculations and models until the poster is turned in. By draft, I do mean draft, so any figures that you are thinking about putting in the poster, please include them in their current form. Make sure to give me enough information to:
+
+1. judge what the figures are,
+2. where they will go in the poster, and
+3. what part of the poster story they will be telling.
+
+In addition, please continue to reflect on:
+
+1. Who did what?
+2. What questions were you able to answer last week?
+3. What questions do you need to answer to continue to move forward?
+4. What help do you need from me or others?
 
 You will turn in both your "notebook" and your self-reflection using the same GitHub repository you started for Project 2. **Make sure that you sync your repository first to get the new feedback!**

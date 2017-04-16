@@ -1,19 +1,7 @@
-## HW-12 Project Problem - Draft figures and captions
+## HW13 - Project problem - Choose your feedback
 
+You've been working on this project for a while now and this will be the last formal project problem. Think about what feedback you want from me regarding your project. What would be helpful? What do you need some direction or instructions on? Think about what would help you the most to make a successful poster in a couple of weeks. Write up a short document outlining what feedback you feel that you need and direct me to the document(s) to review.
 
-Make sure to read the feedback that you received on your figure/models and think about how you and your partner are going to work through these details.
+This kind of work models what your advisor (or boss) might do when you are presenting a project that you've been working on. You know the details of the project better than the advisor (or boss), but you might still want help thinking about the big picture or, perhaps, some specific details that you want to check.
 
-At this point, you should produce draft figures for poster with captions. You should have pressed onward with your calculations and produced appropriate figures for your poster with captions. The "graphic" and caption should be turned in. These need not be complete in the sense that you should continue working on your calculations and models until the poster is turned in. By draft, I do mean draft, so any figures that you are thinking about putting in the poster, please include them in their current form. Make sure to give me enough information to:
-
-1. judge what the figures are,
-2. where they will go in the poster, and
-3. what part of the poster story they will be telling.
-
-In addition, please continue to reflect on:
-
-1. Who did what?
-2. What questions were you able to answer last week?
-3. What questions do you need to answer to continue to move forward?
-4. What help do you need from me or others?
-
-You will turn in both your "notebook" and your self-reflection using the same GitHub repository you started for Project 2. **Make sure that you sync your repository first to get the new feedback!**
+**As usual,  commit these changes to your repository.**

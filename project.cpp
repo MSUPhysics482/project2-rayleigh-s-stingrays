@@ -18,7 +18,7 @@ const double kb = 1.381E-23;          // boltzmann constant
 const double b = 2.898E-3;            // wien's displacement constant
 const double R = 8.3145;              // universal gas constant
 const double p0 = 101325;             // atmospheric pressure
-const double n0 = p0*pow(kb*T0,-1.0); // loschmidt's number
+const double n0 = p0*pow(kb*T0,-1.0); // particle density at p0 and T0
 const double g = 9.80665;             // acceleration due to gravity
 
 // molar masses:
@@ -74,7 +74,7 @@ int main(int argc, char *argv[]) {
 	double f,f_N2,f_O2,f_Ar;
 
 	// scaling factor for intensity function
-	double scale=4.2E-26;
+	double scale=6.0E-26;
 
 	// set up for histogram
 	int ntot=1E6, nbins=100, ibin;
